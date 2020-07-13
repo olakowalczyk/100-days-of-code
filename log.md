@@ -8,6 +8,7 @@
 
 **Link(s) to work**
 1. [Java Fundamentals](https://testautomationu.applitools.com/java-programming-course/chapter2.html)
+2. [Exercise - MadLibs](https://github.com/olakowalczyk/100-days-of-code-excersises/blob/master/chapter2/MadLibs.java)
 
 ### Day 2: July 10, Friday
 
@@ -15,6 +16,7 @@
 
 **Link(s) to work**
 1. [If/Else/Switch statements](https://testautomationu.applitools.com/java-programming-course/chapter3a.html)
+2. [Exercise - DollarGame](https://github.com/olakowalczyk/100-days-of-code-excersises/blob/master/chapter3/DollarGame.java)
 
 ### Day 3: July 11, Saturday
 
@@ -22,6 +24,7 @@
 
 **Link(s) to work**
 1. [Loops](https://testautomationu.applitools.com/java-programming-course/chapter4d.html)
+2. [Exercise - RollTheDieGame](https://github.com/olakowalczyk/100-days-of-code-excersises/blob/master/chapter4/RollTheDieGame.java)
 
 ### Day 4: July 12, Sunday
 
@@ -36,6 +39,6 @@
 **Today's Progress**: I did the exercise on methods and variable scopes - PhoneBillCalculator
 
 **Link(s) to work**
-1. [Exercise](https://testautomationu.applitools.com/java-programming-course/chapter5b.html)
+1. [Exercise - PhoneBillCalculator](https://github.com/olakowalczyk/100-days-of-code-excersises/blob/master/chapter5/PhoneBillCalculator.java)
 
 
