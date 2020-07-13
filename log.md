@@ -31,3 +31,11 @@
 1. [Methods](https://testautomationu.applitools.com/java-programming-course/chapter5a.html)
 2. [Variable Scope](https://testautomationu.applitools.com/java-programming-course/chapter5b.html)
 
+### Day 5: July 13, Monday
+
+**Today's Progress**: I did the exercise on methods and variable scopes - PhoneBillCalculator
+
+**Link(s) to work**
+1. [Exercise](https://testautomationu.applitools.com/java-programming-course/chapter5b.html)
+
+
