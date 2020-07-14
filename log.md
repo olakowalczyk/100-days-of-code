@@ -41,4 +41,13 @@
 **Link(s) to work**
 1. [Exercise - PhoneBillCalculator](https://github.com/olakowalczyk/100-days-of-code-excersises/blob/master/chapter5/PhoneBillCalculator.java)
 
+### Day 6: July 14, Thursday
+
+**Today's Progress**: I started to learn the concept of classes and object in Java.
+
+**Thoughts** Quite a big topic and a different approach than the one I know from Python.
+
+**Link(s) to work**
+1. [Classes and objects](https://testautomationu.applitools.com/java-programming-course/chapter6a.html)
+
 
