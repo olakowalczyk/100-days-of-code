@@ -41,7 +41,7 @@
 **Link(s) to work**
 1. [Exercise - PhoneBillCalculator](https://github.com/olakowalczyk/100-days-of-code-excersises/blob/master/chapter5/PhoneBillCalculator.java)
 
-### Day 6: July 14, Thursday
+### Day 6: July 14, Tuesday
 
 **Today's Progress**: I started to learn the concept of classes and object in Java.
 
@@ -49,5 +49,14 @@
 
 **Link(s) to work**
 1. [Classes and objects](https://testautomationu.applitools.com/java-programming-course/chapter6a.html)
+
+### Day 7: July 15, wednesday
+
+**Today's Progress**: Made exercise where I applied the object-oriented approach. 
+
+**Thoughts** Need more practise.
+
+**Link(s) to work**
+1. [Exercise - PhoneBillCalculator2](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter6)
 
 
