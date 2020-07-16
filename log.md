@@ -50,7 +50,7 @@
 **Link(s) to work**
 1. [Classes and objects](https://testautomationu.applitools.com/java-programming-course/chapter6a.html)
 
-### Day 7: July 15, wednesday
+### Day 7: July 15, Wednesday
 
 **Today's Progress**: Made exercise where I applied the object-oriented approach. 
 
@@ -58,5 +58,13 @@
 
 **Link(s) to work**
 1. [Exercise - PhoneBillCalculator2](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter6)
+
+### Day 8: July 16, Thursday
+
+**Today's Progress**: I did a repetition of what I had already learned during the first week. I also introduced the arrays topic.
+
+**Link(s) to work**
+1. [Arrays](https://testautomationu.applitools.com/java-programming-course/chapter7a.html)
+
 
 
