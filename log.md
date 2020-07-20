@@ -66,5 +66,14 @@
 **Link(s) to work**
 1. [Arrays](https://testautomationu.applitools.com/java-programming-course/chapter7a.html)
 
+### Day 9: July 20, Monday
+
+**Today's Progress**: I learned about data types, type inference, class wrappers and about some methods the wrappers provide.
+
+**Link(s) to work**
+1. [Data Types](https://testautomationu.applitools.com/java-programming-course/chapter8a.html)
+2. [Strings](https://testautomationu.applitools.com/java-programming-course/chapter8b.html)
+3. [Exercise - DayOfTheWeek](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/chapter7/DayOfTheWeek.java)
+4. [Exercise - PasswordValidator](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/chapter8/PasswordValidator.java)
 
 
