@@ -78,7 +78,7 @@
 
 ### Day 10: July 21, Tuesday
 
-**Today's Progress**: I learned about inheritance, constructors in inheritance, overridding and overloading methods, access limitations in inheritance and multiple inheritiance. I also practiced that with some classes.
+**Today's Progress**: I learned about inheritance, constructors in inheritance, overriding and overloading methods, access limitations in inheritance and multiple inheritance. I also practiced that with some classes.
 
 **Link(s) to work**
 1. [Inheritance](https://testautomationu.applitools.com/java-programming-course/chapter9a.html)
