@@ -76,4 +76,11 @@
 3. [Exercise - DayOfTheWeek](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/chapter7/DayOfTheWeek.java)
 4. [Exercise - PasswordValidator](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/chapter8/PasswordValidator.java)
 
+### Day 10: July 21, Tuesday
+
+**Today's Progress**: I learned about inheritance, constructors in inheritance, overridding and overloading methods, access limitations in inheritance and multiple inheritiance. I also practiced that with some classes.
+
+**Link(s) to work**
+1. [Inheritance](https://testautomationu.applitools.com/java-programming-course/chapter9a.html)
+2. [Exercise - CakeCakeCake](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter9)
 
