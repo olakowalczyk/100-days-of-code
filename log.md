@@ -84,3 +84,11 @@
 1. [Inheritance](https://testautomationu.applitools.com/java-programming-course/chapter9a.html)
 2. [Exercise - CakeCakeCake](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter9)
 
+### Day 11: July 22, Wednsday
+
+**Today's Progress**: I learned about polymorphism and I made an easy practical task related to this. I have also refactored PasswordValidator.
+
+**Link(s) to work**
+1. [Polymorphism](https://testautomationu.applitools.com/java-programming-course/chapter10.html)
+2. [Exercise - FruitMarket](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter10/FruitMarket)
+3. [Exercise - PasswordValidator2](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/chapter8/PasswordValidator2.java)
