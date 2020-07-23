@@ -92,3 +92,15 @@
 1. [Polymorphism](https://testautomationu.applitools.com/java-programming-course/chapter10.html)
 2. [Exercise - FruitMarket](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter10/FruitMarket)
 3. [Exercise - PasswordValidator2](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/chapter8/PasswordValidator2.java)
+
+### Day 12: July 23, Thursday
+
+**Today's Progress**: I got acquainted with abstraction, interfaces and Collections framework. I practiced abstraction with farm full of animals and Map with comparing two collections.
+
+**Link(s) to work**
+1. [Abstraction](https://testautomationu.applitools.com/java-programming-course/chapter11a.html)
+2. [Interfaces](https://testautomationu.applitools.com/java-programming-course/chapter11b.html)
+3. [Collections Framework & Map](https://testautomationu.applitools.com/java-programming-course/chapter12a.html)
+4. [Collections Framework & Map- Looping](https://testautomationu.applitools.com/java-programming-course/chapter12b.html)
+2. [Exercise - Farm](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter11/Farm)
+3. [Exercise - Gradebook](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter12/Gradebook)
