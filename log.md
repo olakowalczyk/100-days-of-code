@@ -104,3 +104,11 @@
 4. [Collections Framework & Map- Looping](https://testautomationu.applitools.com/java-programming-course/chapter12b.html)
 2. [Exercise - Farm](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter11/Farm)
 3. [Exercise - Gradebook](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter12/Gradebook)
+
+### Day 13: July 24, Friday
+
+**Today's Progress**: I have learned about Exceptions.
+
+**Link(s) to work**
+1. [Exceptions](https://testautomationu.applitools.com/java-programming-course/chapter11a.html)
+2. [Exercise - DividingByZero](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/chapter13/DividingByZero/DividingByZero.java)
