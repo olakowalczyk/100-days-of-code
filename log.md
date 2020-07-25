@@ -112,3 +112,10 @@
 **Link(s) to work**
 1. [Exceptions](https://testautomationu.applitools.com/java-programming-course/chapter11a.html)
 2. [Exercise - DividingByZero](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/chapter13/DividingByZero/DividingByZero.java)
+
+### Day 14: July 25, Saturday
+
+**Today's Progress**: I am done with Java Fundamentals course. I made simple CoinTossGame.
+
+**Link(s) to work**
+1. [Exercise - CoinTossGame](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter14/CoinTossGame)
