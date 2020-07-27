@@ -119,3 +119,19 @@
 
 **Link(s) to work**
 1. [Exercise - CoinTossGame](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/chapter14/CoinTossGame)
+
+### Day 15: July 26, Sunday
+
+**Today's Progress**: I have completed Introduction to TestNG course.
+
+**Link(s) to work**
+1. [Introduction to TestNG](https://testautomationu.applitools.com/introduction-to-testng/)
+
+### Day 16: July 27, Monday
+
+**Today's Progress**: Today I have started new course: Selenium WebDriver Java Tutorial. I have practiced finding elements.
+
+**Link(s) to work**
+1. [Selenium WebDriver Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/chapter3.html)
+2. [Exercise](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/JavaSeleniumTutorial/Chapter3ExerciseTest.java)
+
