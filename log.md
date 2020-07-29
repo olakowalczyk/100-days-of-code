@@ -137,7 +137,7 @@
 
 ### Day 17-18: July 28-29, Tuesday-Wednesday
 
-**Today's Progress**:Practiced with finding elements with Selenium, used selenium-chrome-driver and selenium-support for drop-down lists. Did exercise: Test retrieve password on [The Internet] (https://the-internet.herokuapp.com)
+**Today's Progress**: Practiced with finding elements with Selenium, used selenium-chrome-driver and selenium-support for drop-down lists. Did exercise: Test retrieve password on [The Internet](https://the-internet.herokuapp.com)
 
 **Link(s) to work**
 1. [Elements Interactions](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/chapter4.3.html)
