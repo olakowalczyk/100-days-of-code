@@ -135,3 +135,11 @@
 1. [Selenium WebDriver Java](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/chapter3.html)
 2. [Exercise](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/JavaSeleniumTutorial/Chapter3ExerciseTest.java)
 
+### Day 17-18: July 28-29, Tuesday-Wednesday
+
+**Today's Progress**:Practiced with finding elements with Selenium, used selenium-chrome-driver and selenium-support for drop-down lists. Did exercise: Test retrieve password on [The Internet] (https://the-internet.herokuapp.com)
+
+**Link(s) to work**
+1. [Elements Interactions](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/chapter4.3.html)
+2. [Exercise](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/JavaSeleniumTutorial/chapter4_ForgotPasswordTests/src)
+
