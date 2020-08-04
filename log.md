@@ -143,3 +143,15 @@
 1. [Elements Interactions](https://testautomationu.applitools.com/selenium-webdriver-tutorial-java/chapter4.3.html)
 2. [Exercise](https://github.com/olakowalczyk/100-days-of-code-exercises/tree/master/JavaSeleniumTutorial/chapter4_ForgotPasswordTests/src)
 
+### Day 19-20: July 31- August 1, Friday-Sunday
+
+**Today's Progress**: Change a little bit my path from Java to Python Robot Framework as I need upskill with it Rocket
+I have started with getting familiarize with the concept and variables types.
+
+### Day 21: July 31- August 4, Tuesday
+
+**Today's Progress**: I follow Robot Framework User Guide. I have created some basic tests using Selenium Library. 
+
+**Link(s) to work**
+1. [Exercise](https://github.com/olakowalczyk/100-days-of-code-exercises/blob/master/RobotFramework/testcases/firsttest.robot)
+
